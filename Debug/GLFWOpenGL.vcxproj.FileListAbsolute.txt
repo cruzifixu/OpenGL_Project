@@ -1,0 +1,3 @@
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\Debug\GLFWOpenGL.exe.lastcodeanalysissucceeded
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\Debug\GLFWOpenGL.exe
