@@ -26,7 +26,7 @@
             "analysisTarget"
           ],
           "hashes": {
-            "sha-256": "76928e5bf764bd9b951cb5ac955173770625df718161ed53979574b62127c6af"
+            "sha-256": "5c273e6a33a4161c68e055dbd67ed54a5e765af699fb801db8ef26028bf06e83"
           }
         },
         {
@@ -51,6 +51,14 @@
           },
           "hashes": {
             "sha-256": "067665a8d5bb2d1961e964b06df808b5582d87e110f1f87e58e9252132c6e38d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/franz/source/repos/glfwopengl/opengl_project/camera.h"
+          },
+          "hashes": {
+            "sha-256": "d718a002f9bf682caa770a5f002c854177c50b446942f18c1534008d3d57c71c"
           }
         },
         {
@@ -1483,6 +1491,14 @@
           },
           "hashes": {
             "sha-256": "b9f59c25fbf9633f74921e87d4f3af6313be6d28afa26a4683e9cd33a059f3bd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/franz/source/repos/glfwopengl/opengl_project/soil2/soil2.h"
+          },
+          "hashes": {
+            "sha-256": "acee32456baebafde448bb71ef1dced8ec5c09a59600a2ee4d39caa805aff603"
           }
         }
       ]

@@ -1,7 +1,10 @@
 ﻿  main.cpp
-  SOIL2.c
-  image_DXT.c
-  image_helper.c
-  wfETC.c
-  Code wird generiert...
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(196,30): warning C4244: "Initialisierung": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(321,17): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(322,17): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(326,21): warning C4244: "Initialisierung": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(327,21): warning C4244: "Initialisierung": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(329,13): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(330,13): warning C4244: "=": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\main.cpp(338,31): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
   GLFWOpenGL.vcxproj -> C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\Debug\GLFWOpenGL.exe
