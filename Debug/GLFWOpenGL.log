@@ -1,6 +1,2 @@
-﻿  GLFWOpenGL.cpp
-  main.cpp
-  Code Analysis für C/C++ wird ausgeführt...
-  Code wird generiert...
-LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+﻿  main.cpp
   GLFWOpenGL.vcxproj -> C:\Users\Franz\source\repos\GLFWOpenGL\OpenGL_Project\Debug\GLFWOpenGL.exe
